@@ -1,0 +1,27 @@
+# Sports Psychology: Data Profiling & Psychometric Analysis
+
+![Status](https://img.shields.io/badge/Status-Data_Analysis_Focus-blue)
+![Field](https://img.shields.io/badge/Field-Sports_Psychology-green)
+
+Professional portfolio focused on the extraction and interpretation of psychometric data for athletic performance.
+
+## Psychometric Results Summary (Actual Data)
+
+### Performance Profile (IPED)
+| Variable | Score (1-30) | Level |
+| :--- | :---: | :--- |
+| Nivel Motivacional (NM) | 27 | High |
+| Autoconfianza (AC) | 24 | High |
+| Control Actitudinal (CACT) | 24 | High |
+| Control Visuoimaginativo (CVI) | 24 | High |
+| Control Atencional (CAT) | 20 | Moderate |
+| Control Afrontamiento Positivo (CAP) | 20 | Moderate |
+| Control Afrontamiento Negativo (CAN) | 16 | Moderate (Lowest) |
+
+### Cognitive & Communication Metrics
+| Test | Metric | Result |
+| :--- | :--- | :--- |
+| **ACANCODO** | Dominant Channels | **Visual (76) & Kinesthetic (76)** |
+| **Rejilla 1.1** | Effectiveness | 100% (High Precision) |
+| **AF5: Academic** | Percentile | 99 (Very High) |
+| **AF5: Family** | Percentile | 15 (Critical Area) |
