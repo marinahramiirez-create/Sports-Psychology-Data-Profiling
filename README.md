@@ -31,6 +31,23 @@ The project follows a structured clinical-sporting methodology, transitioning fr
 * **Monitoring Protocols:** Implementation of self-registration logs for physiological (HR, sleep) and psychological (mood, perceived effort) variables.
 * **Attentional Strengthening:** Specific drills designed to improve focus and concentration consistency.
 
+  ##  Key Findings & Diagnostic Data
+
+To demonstrate the analytical nature of this project, below are the core metrics extracted from the subject's assessment:
+
+### Athlete's Psychological Profile (IPED)
+| Variable | Score | Clinical Interpretation |
+| :--- | :---: | :--- |
+| Motivation | 27/30 | High |
+| Self-Confidence | 24/30 | High |
+| Negative Coping (CAN) | 16/30 | **Priority Area (Weakness)** |
+| Attentional Control (CAT) | 20/30 | Moderate |
+
+### Cognitive & Communication Metrics
+* **Dominant Channels (ACANCODO):** Visual (76) & Kinesthetic (76).
+* **Self-Concept (AF5):** Exceptional scores in Academic (99 PC) and Physical (99 PC) areas, with a significant drop in Family (15 PC) and Emotional (30 PC) dimensions.
+* **Attention Performance:** 100% effectiveness in Grid Tests, showing high precision but room for speed optimization under pressure.
+
 ## 🛠️ Tools & Methodology
 * **MenPas Platform:** Online assessment tools for statistical data collection and psychometric validation.
 * **Quantitative & Qualitative Analysis:** Integration of standardized test scores with behavioral observation.
