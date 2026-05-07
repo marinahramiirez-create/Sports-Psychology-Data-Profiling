@@ -31,11 +31,11 @@ The project follows a structured clinical-sporting methodology, transitioning fr
 * **Monitoring Protocols:** Implementation of self-registration logs for physiological (HR, sleep) and psychological (mood, perceived effort) variables.
 * **Attentional Strengthening:** Specific drills designed to improve focus and concentration consistency.
 
-  ##  Key Findings & Diagnostic Data
+ ### Key Findings & Diagnostic Data
 
 To demonstrate the analytical nature of this project, below are the core metrics extracted from the subject's assessment:
 
-### Athlete's Psychological Profile (IPED)
+#### Athlete's Psychological Profile (IPED)
 | Variable | Score | Clinical Interpretation |
 | :--- | :---: | :--- |
 | Motivation | 27/30 | High |
@@ -43,10 +43,16 @@ To demonstrate the analytical nature of this project, below are the core metrics
 | Negative Coping (CAN) | 16/30 | **Priority Area (Weakness)** |
 | Attentional Control (CAT) | 20/30 | Moderate |
 
-### Cognitive & Communication Metrics
+#### Cognitive & Attentional Performance (d2 & Grids)
+| Metric | Result | Interpretation |
+| :--- | :--- | :--- |
+| **d2: Concentration (CP)** | High | Superior capacity for sustained focus |
+| **d2: Precision (E%)** | < 3% | Exceptional accuracy / Low impulsivity |
+| **Grid Test 1.1** | 100% | High effectiveness in visual search |
+
+#### Communication & Self-Concept
 * **Dominant Channels (ACANCODO):** Visual (76) & Kinesthetic (76).
-* **Self-Concept (AF5):** Exceptional scores in Academic (99 PC) and Physical (99 PC) areas, with a significant drop in Family (15 PC) and Emotional (30 PC) dimensions.
-* **Attention Performance:** 100% effectiveness in Grid Tests, showing high precision but room for speed optimization under pressure.
+* **AF5 Self-Concept:** Exceptional in Academic (99 PC) and Physical (99 PC); Critical in Family (15 PC).
 
 ## 🛠️ Tools & Methodology
 * **MenPas Platform:** Online assessment tools for statistical data collection and psychometric validation.
