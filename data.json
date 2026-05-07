@@ -1,0 +1,36 @@
+{
+  "subject_info": {
+    "name": "Marina Herrera Ramírez",
+    "academic_year": "2025-2026",
+    "institution": "Universidad de Málaga"
+  },
+  "psychometric_data": {
+    "IPED_scores": {
+      "motivation": 27,
+      "self_confidence": 24,
+      "attitudinal_control": 24,
+      "visuomotor_control": 24,
+      "attentional_control": 20,
+      "positive_coping": 20,
+      "negative_coping": 16
+    },
+    "communication_channels": {
+      "visual": 76,
+      "kinesthetic": 76,
+      "auditory": 64
+    },
+    "self_concept_af5_percentiles": {
+      "academic": 99,
+      "physical": 99,
+      "social": 35,
+      "emotional": 30,
+      "family": 15
+    }
+  },
+  "attention_tests": {
+    "grid_test_1.1": {
+      "effectiveness": "100%",
+      "absolute_success": "12.24%"
+    }
+  }
+}
